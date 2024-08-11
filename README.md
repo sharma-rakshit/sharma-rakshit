@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Rakshit</h1>
-<h3 align="left">A passionate Frontend & Blockchain Developer from Shimla, India</h3>
-<h5>Currently a CSE student at Chandigarh University'25</h5>
+<h3 align="left">A passionate Developer from Shimla (HP), India</h3>
+<h5>Currently focussing to upskill myself</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharma-rakshit&label=Profile%20views&color=0e75b6&style=flat" alt="sharma-rakshit" /></p>
 <hr/>
 <a href="https://app.daily.dev/rakshitsharma"><img src="https://api.daily.dev/devcards/v2/PWkrQTDCVSUdSgMeEXlO1.png?type=default&r=yw4" width="356" alt="Rakshit Sharma's Dev Card"/></a>
